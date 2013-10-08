@@ -21,7 +21,7 @@ class CustomTopo(Topo):
 
         # Add your logic here ...
         controller = self.addSwitch('c1')
-        #e_num and h_num are edge switch and host numbers
+        #e_num and h_num are the number of edge switch and host
         e_num = 1
         h_num = 1
 
